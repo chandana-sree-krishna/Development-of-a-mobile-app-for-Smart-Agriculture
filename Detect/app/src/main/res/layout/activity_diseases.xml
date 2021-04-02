@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="24dp"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Early Blight"
+        android:textColor="#222222"
+        android:textSize="16sp"
+        android:textStyle="bold"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Caused by: Alternaria tomatophila and A.solani"
+        android:textColor="#555555"
+        android:textSize="12sp"
+        android:textStyle="italic"
+        android:layout_marginBottom="6dp"/>
+
+    <View
+        android:layout_width="wrap_content"
+        android:layout_height="2dp"
+        android:background="#CCCCCC"
+        android:layout_marginBottom="6dp">
+
+    </View>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Late Blight"
+        android:textColor="#222222"
+        android:textSize="16sp"
+        android:textStyle="bold"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Caused by: Phytophthora infestans"
+        android:textStyle="italic"
+        android:textColor="#555555"
+        android:textSize="12sp"
+        android:layout_marginBottom="6dp"/>
+
+    <View
+        android:layout_width="wrap_content"
+        android:layout_height="2dp"
+        android:background="#CCCCCC"
+        android:layout_marginBottom="6dp">
+
+    </View>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Septoria Leaf Spot"
+        android:textColor="#222222"
+        android:textSize="16sp"
+        android:textStyle="bold"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Caused by: Septoria lycopersici"
+        android:textStyle="italic"
+        android:textColor="#555555"
+        android:textSize="12sp"
+        android:layout_marginBottom="6dp"/>
+
+    <View
+        android:layout_width="wrap_content"
+        android:layout_height="2dp"
+        android:background="#CCCCCC"
+        android:layout_marginBottom="6dp">
+
+    </View>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Leaf Mold"
+        android:textColor="#222222"
+        android:textSize="16sp"
+        android:textStyle="bold"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Caused by: Passalora fulva"
+        android:textStyle="italic"
+        android:textColor="#555555"
+        android:textSize="12sp"
+        android:layout_marginBottom="6dp"/>
+
+    <View
+        android:layout_width="wrap_content"
+        android:layout_height="2dp"
+        android:background="#CCCCCC"
+        android:layout_marginBottom="6dp">
+
+    </View>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Bacterial Spot"
+        android:textColor="#222222"
+        android:textSize="16sp"
+        android:textStyle="bold"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Caused by: Xanthomonas vesicatoria"
+        android:textStyle="italic"
+        android:textColor="#555555"
+        android:textSize="12sp"
+        android:layout_marginBottom="6dp"/>
+
+    <View
+        android:layout_width="wrap_content"
+        android:layout_height="2dp"
+        android:background="#CCCCCC"
+        android:layout_marginBottom="6dp">
+
+    </View>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Target Spot"
+        android:textColor="#222222"
+        android:textSize="16sp"
+        android:textStyle="bold"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Caused by: Corynespora cassicola"
+        android:textStyle="italic"
+        android:textColor="#555555"
+        android:textSize="12sp"
+        android:layout_marginBottom="6dp"/>
+
+    <View
+        android:layout_width="wrap_content"
+        android:layout_height="2dp"
+        android:background="#CCCCCC"
+        android:layout_marginBottom="6dp">
+
+    </View>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Spider-Mites"
+        android:textColor="#222222"
+        android:textSize="16sp"
+        android:textStyle="bold"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Caused by: Tetranychus evansi"
+        android:textStyle="italic"
+        android:textColor="#555555"
+        android:textSize="12sp"
+        android:layout_marginBottom="6dp"/>
+
+    <View
+        android:layout_width="wrap_content"
+        android:layout_height="2dp"
+        android:background="#CCCCCC"
+        android:layout_marginBottom="6dp">
+
+    </View>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Yellow Leaf Curl"
+        android:textColor="#222222"
+        android:textSize="16sp"
+        android:textStyle="bold"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Caused by: Begomovirus, Geminiviridae"
+        android:textStyle="italic"
+        android:textColor="#555555"
+        android:textSize="12sp"
+        android:layout_marginBottom="6dp"/>
+
+    <View
+        android:layout_width="wrap_content"
+        android:layout_height="2dp"
+        android:background="#CCCCCC"
+        android:layout_marginBottom="6dp">
+
+    </View>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Mosaic Virus"
+        android:textColor="#222222"
+        android:textSize="16sp"
+        android:textStyle="bold"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Caused by: ToMV"
+        android:textStyle="italic"
+        android:textColor="#555555"
+        android:textSize="12sp"
+        android:layout_marginBottom="6dp"/>
+
+    <View
+        android:layout_width="wrap_content"
+        android:layout_height="2dp"
+        android:background="#CCCCCC"
+        android:layout_marginBottom="6dp">
+
+    </View>
+
+
+
+</LinearLayout>
